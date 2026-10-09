@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# PyInstaller build output (exe is published via GitHub Releases instead)
+build/
+dist/
+*.exe
+
+# Data and results (do not commit measurement data or results)
+*.sxm
+*.npz
+*.xlsx
+results/
+output/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
