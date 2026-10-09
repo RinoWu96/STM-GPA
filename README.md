@@ -3,7 +3,11 @@
 An interactive desktop tool for **lattice-strain mapping of STM topographs** using geometric phase analysis (GPA).
 It loads Nanonis `.sxm` images and produces strain maps (εxx, εyy, εxy), lattice rotation and dilatation.
 
-Part of a small set of STM/STS tools: see also [STS-map](https://github.com/RinoWu96/STS-map) and [BandGap](https://github.com/RinoWu96/BandGap).
+**Related STM/STS data-processing tools:**
+
+- [STS-map](https://github.com/RinoWu96/STS-map): STS line-scan analysis: dI/dV maps, CBM/VBM detection and band gap along the line
+- [BandGap](https://github.com/RinoWu96/BandGap): band gap extraction from single STS spectra
+- **STM-GPA** (this repo): lattice-strain mapping of STM topographs with geometric phase analysis
 
 ## Features
 
